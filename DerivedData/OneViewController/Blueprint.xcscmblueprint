@@ -1,18 +1,26 @@
 {
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1025559E61535D82A3C2A88C3149F77DCD74264A",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "3AF18F9C6F5D633BAA0B3F935459E0C777C82047" : 0
+    "3AF18F9C6F5D633BAA0B3F935459E0C777C82047" : 0,
+    "1025559E61535D82A3C2A88C3149F77DCD74264A" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "41C6B655-40D8-48DF-AD0D-262736DC093E",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "3AF18F9C6F5D633BAA0B3F935459E0C777C82047" : "OneViewController\/DerivedData\/OneViewController\/SourcePackages\/checkouts\/SnapKit\/"
+    "3AF18F9C6F5D633BAA0B3F935459E0C777C82047" : "OneViewController\/DerivedData\/OneViewController\/SourcePackages\/checkouts\/SnapKit\/",
+    "1025559E61535D82A3C2A88C3149F77DCD74264A" : "OneViewController\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "OneViewController",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OneViewController.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/huangxionging\/OneViewController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1025559E61535D82A3C2A88C3149F77DCD74264A"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/huangxiong\/huangxionging\/Project\/OneViewController\/DerivedData\/OneViewController\/SourcePackages\/repositories\/SnapKit-4cdad746",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
