@@ -1,0 +1,4 @@
+derived: SnapKit[everything] 5.0.1..<6.0.0
+decision: snapkit[https://github.com/SnapKit/SnapKit]@5.0.1
+solved:
+snapkit[https://github.com/SnapKit/SnapKit] 5.0.1

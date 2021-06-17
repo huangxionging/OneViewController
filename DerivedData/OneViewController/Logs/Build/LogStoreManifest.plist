@@ -5,6 +5,41 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>AEEEC4B4-3444-4F67-BE51-886F2ABE4B1E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AEEEC4B4-3444-4F67-BE51-886F2ABE4B1E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OneViewController project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OneViewController</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build OneViewController</string>
+			<key>timeStartedRecording</key>
+			<real>645595379.10106802</real>
+			<key>timeStoppedRecording</key>
+			<real>645595381.52262604</real>
+			<key>title</key>
+			<string>Build OneViewController</string>
+			<key>uniqueIdentifier</key>
+			<string>AEEEC4B4-3444-4F67-BE51-886F2ABE4B1E</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
